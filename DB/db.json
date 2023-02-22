@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "SV001",
+      "name": "Nguyễn Văn A",
+      "age": 18,
+      "gender": true,
+      "birthPlace": "Hà Nội",
+      "birthDate": "2000/03/09",
+      "address": "số 5 Trần Cung"
+    },
+    {
+      "id": "SV002",
+      "name": "Nguyễn Thị B",
+      "age": 20,
+      "gender": false,
+      "birthPlace": "Đà Nẵng",
+      "birthDate": "2000/03/09",
+      "address": "số 5 Trần Cung"
+    },
+    {
+      "id": "SV003",
+      "name": "Nguyễn Văn C",
+      "age": 25,
+      "gender": true,
+      "birthPlace": "Hà Nội",
+      "birthDate": "1998/03/09",
+      "address": "số 5 Trần Cung"
+    }
+  ]
+}
